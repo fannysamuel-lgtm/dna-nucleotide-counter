@@ -1,25 +1,52 @@
-# dna-nucleotide-counter
-Python script to count A, T, G, and C nucleotides in a DNA sequence.
+# 🧬 DNA Nucleotide Counter
 
-# DNA Nucleotide Counter
+A simple and efficient Python-based bioinformatics tool for analyzing DNA sequences by counting the four fundamental nucleotides: **Adenine (A), Thymine (T), Guanine (G), and Cytosine (C).**
 
-This project contains a Python script that counts the nucleotides A, T, G, and C in a DNA sequence.
+This project demonstrates the use of Python for a basic biological sequence-analysis task and serves as an introduction to computational biology and bioinformatics.
 
-## How to Run
+---
 
-Run the following command:
+## 🔬 Project Overview
 
-python dna_counter.py
+DNA sequences are composed of four nucleotide bases:
 
-Enter a DNA sequence when prompted, and the program will display the count of each nucleotide.
+| Nucleotide | Symbol |
+|------------|--------|
+| Adenine | A |
+| Thymine | T |
+| Guanine | G |
+| Cytosine | C |
 
-## Example
+The **DNA Nucleotide Counter** accepts a DNA sequence from the user and calculates the number of occurrences of each nucleotide.
 
-Input:
-ATGCGATTAACG
+This type of analysis is a fundamental step in many bioinformatics workflows.
 
-Output:
-A: 4
-T: 3
-G: 3
-C: 2
+---
+
+## 🚀 Features
+
+- 🧬 Accepts a DNA sequence as input
+- 🔠 Automatically converts lowercase sequences to uppercase
+- 🔢 Counts **A, T, G, and C**
+- 📊 Displays nucleotide frequencies clearly
+- 🐍 Written entirely in Python
+- 💻 Simple command-line interface
+- 🎓 Designed as an introductory bioinformatics project
+
+---
+
+## 🛠️ Technologies Used
+
+- **Python 3**
+- **VS Code**
+- **Git & GitHub**
+
+---
+
+## 📁 Project Structure
+
+```text
+dna-nucleotide-counter/
+│
+├── dna_counter.py
+└── README.md
