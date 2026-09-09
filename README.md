@@ -1,6 +1,7 @@
 # 🧬 DNA Nucleotide Counter
 
-A simple and efficient Python-based bioinformatics tool for analyzing DNA sequences by counting the four fundamental nucleotides: **Adenine (A), Thymine (T), Guanine (G), and Cytosine (C).**
+A simple and efficient Python-based bioinformatics tool for analyzing DNA sequences by counting the four fundamental nucleotides:**Adenine (A), Thymine (T),Guanine (G), 
+and Cytosine (C).**
 
 This project demonstrates the use of Python for a basic biological sequence-analysis task and serves as an introduction to computational biology and bioinformatics.
 
@@ -43,10 +44,10 @@ This type of analysis is a fundamental step in many bioinformatics workflows.
 
 ---
 
-## 📁 Project Structure
+👤 Author
 
-```text
-dna-nucleotide-counter/
-│
-├── dna_counter.py
-└── README.md
+Fanny R
+
+Bioinformatics Intern
+
+Focused on biological sequence analysis and Python-based bioinformatics workflows.
